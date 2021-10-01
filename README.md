@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dOctorWild
 - 👀 I’m interested in learning new things, coding new things, surfing and the outdoors
-- 🌱 I’m currently learning C#, studing computer science in Cape Town.
+- 🌱 I’m currently learning C# and Java, studing Computer Science in Cape Town.
 - 💞️ I’m looking to collaborate on anything you want to give me, i want to gain experience.
 - 📫 How to reach me at jareddavidwild4@gmail.com 
